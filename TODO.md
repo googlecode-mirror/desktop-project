@@ -1,0 +1,13 @@
+# TODO List #
+  * Add support to icons:
+    * Exec app
+    * Add icon
+    * Move icons
+  * Add desktop layer
+  * Configuration
+    * Disable shadow
+    * Change desktop image
+  * Add login system
+    * Login against machine users
+    * Login agains mysql users
+  * Add system to install apps
